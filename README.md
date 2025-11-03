@@ -1,6 +1,6 @@
 # Computer Science Study Note
 
-|과목명|제목|GitHub Repository 링크|시기|비고|
+|과목명|제목|GitHub Repository|시기|비고|
 |---|---|---|---|---|
 |운영체제|MIT 6.1810 Operating System Engineering xv6 Lab|[Link](https://github.com/Yun-YeoJun/xv6-labs)|2025||
 |정보보안|EEC4412 정보보호론 Buffer Overflow Attack Lab|[Link](https://github.com/Yun-YeoJun/EEC4412-Buffer-Overflow-Attack-Lab)|2025||
